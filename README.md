@@ -1,1 +1,1 @@
-# Daily-Weekly-newsfeed-in-python
+# Weekly-newsfeed-in-python
